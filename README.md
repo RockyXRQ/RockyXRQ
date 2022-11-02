@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 Current working in SIEMENS.
 - 🔭 Previously working in [Shenzhen Next-Innovation](https://github.com/FRCNextInnovation).
 - 🌱 Major in the Control Engineering & Robotics ~
 - 💌 Be free to visit my personal blog [Rokcy.xrq](https://www.rocky-xrq.com/) ~
