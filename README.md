@@ -2,6 +2,7 @@
 
 This is Rocky Xu. I graduated from USST and majoring in Automation. I'm also the programming mentor of FRC(First Robotics Competition) Team 8583 Juggernauts and 8214 Cyber Unicorn.
 
+- 🔭 Current working in Cartesius Robotics.
 - 🔭 Current working in [HKCLR](https://hkclr.hk/).
 - 🔭 Previously working in [Shenzhen Next-Innovation](https://github.com/FRCNextInnovation).
 - 🌱 Major in the Control Theory & Robotics ~
