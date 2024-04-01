@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Rocky Xu. I graduated from USST and majoring in Automation. I'm also the programming mentor of FRC(First Robotics Competition) team 8214 Cyber Unicorn.
+This is Rocky Xu. I graduated from USST and majoring in Automation. I'm also the programming mentor of FRC(First Robotics Competition) team [8214 Cyber Unicorn](https://www.thebluealliance.com/team/8214).
 
 - 🔭 Current working in Cartesius Robotics
 - 🔭 Current working in [HKCLR](https://hkclr.hk/)
