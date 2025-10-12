@@ -4,7 +4,7 @@ I'm Rocky Xu, a robot engineer 🤖, FIRST alumni 🎓 and FRC programming mento
 
 - 🔭 Current working as CTO in [Next Innovation STEM Center](https://github.com/FRCNextInnovation)
 - 🌱 Major in robotics
-- 💌 Be free to visit my academic website [rocky-xrq.com](https://www.rocky-xrq.com) ~
+- 💌 Be free to visit my academic website [rocky-xrq.com](https://www.rocky-xrq.com)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RockyXRQ&layout=compact&theme=ambient_gradient" />
