@@ -2,8 +2,8 @@
 
 I'm Rocky Xu, a robot engineer 🤖, FIRST alumni 🎓 and FRC programming mentor in team 8214 Cyber Unicorn 🦄
 
-- 🔭 CTO of [Next Innovation STEM Center](https://github.com/FRCNextInnovation)
 - 🌱 Major in robotics
+- 🔭 CTO of [Next Innovation STEM Center](https://github.com/FRCNextInnovation)
 - 💌 Be free to visit my academic website [rocky-xrq.com](https://www.rocky-xrq.com)
 
 <p align="center">
