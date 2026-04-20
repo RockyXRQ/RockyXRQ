@@ -4,4 +4,4 @@ I'm Rocky Xu, a robot engineer 🤖, FIRST alumni 🎓 and FRC programming mento
 
 - 🌱 CEO of [NICE Robotics](https://docs.nicerobotics.hk/)
 - 🔭 CTO of [Next Innovation STEM Center](https://github.com/nirobotics)
-- 💌 Be free to visit my academic website [rocky-xrq.com](https://www.rocky-xrq.com)
+- 💌 Be free to visit my academic website [rockyxrq.com](https://www.rockyxrq.com)
